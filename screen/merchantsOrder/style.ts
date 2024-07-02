@@ -2,8 +2,6 @@ import {StyleSheet} from 'react-native';
 
 export const styles = StyleSheet.create({
   container: {
-    // flex: 1,
-    // backgroundColor: '#f2f2f0',
     height: '100%',
   },
   subContainer: {
@@ -102,9 +100,6 @@ export const styles = StyleSheet.create({
     // backgroundColor: '#fff',
   },
   menu: {
-    // padding: 20,
-    // paddingLeft: 0,
-    // paddingRight: 0,
     backgroundColor: '#fff',
     padding: 16,
     borderRadius: 16,
@@ -118,10 +113,6 @@ export const styles = StyleSheet.create({
     padding: 10,
     paddingLeft: 0,
     borderRadius: 10,
-    // shadowOffset: {width: 0, height: 1},
-    // shadowOpacity: 0.1,
-    // shadowRadius: 1,
-    // elevation: 2,
   },
   menuItemImage: {
     width: 62,
